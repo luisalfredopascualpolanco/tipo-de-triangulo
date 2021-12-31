@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\tipo-de-triangulo\proyecto10.10\proyecto10.10\bin\Debug\proyecto10.10.exe.config
+D:\Programas\Cursos\C# ya\tipo-de-triangulo\proyecto10.10\proyecto10.10\bin\Debug\proyecto10.10.exe
+D:\Programas\Cursos\C# ya\tipo-de-triangulo\proyecto10.10\proyecto10.10\bin\Debug\proyecto10.10.pdb
+D:\Programas\Cursos\C# ya\tipo-de-triangulo\proyecto10.10\proyecto10.10\obj\Debug\proyecto10.10.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\tipo-de-triangulo\proyecto10.10\proyecto10.10\obj\Debug\proyecto10.10.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\tipo-de-triangulo\proyecto10.10\proyecto10.10\obj\Debug\proyecto10.10.exe
+D:\Programas\Cursos\C# ya\tipo-de-triangulo\proyecto10.10\proyecto10.10\obj\Debug\proyecto10.10.pdb

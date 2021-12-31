@@ -1,0 +1,3 @@
+Explicacion del programa:
+
+Es una app de consola que nos pide la cantidad de triangulos para analizar luego nos dice la cantidad de cada tipo de triangulos y por ultimo nos muestra el tipo de triangulo que menos se repite.
